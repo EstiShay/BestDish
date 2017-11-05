@@ -1,6 +1,5 @@
 package com.epicodus.bestdish.models;
 
-
 import org.parceler.Parcel;
 
 import java.util.ArrayList;
