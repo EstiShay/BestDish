@@ -2,6 +2,8 @@ package com.epicodus.bestdish;
 
 import android.support.test.rule.ActivityTestRule;
 
+import com.epicodus.bestdish.ui.MainActivity;
+
 import org.junit.Rule;
 import org.junit.Test;
 

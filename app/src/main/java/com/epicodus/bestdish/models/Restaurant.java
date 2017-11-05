@@ -1,4 +1,4 @@
-package com.epicodus.bestdish;
+package com.epicodus.bestdish.models;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,7 @@
-package com.epicodus.bestdish;
+package com.epicodus.bestdish.services;
+
+import com.epicodus.bestdish.Constants;
+import com.epicodus.bestdish.models.Restaurant;
 
 import org.json.JSONArray;
 import org.json.JSONException;

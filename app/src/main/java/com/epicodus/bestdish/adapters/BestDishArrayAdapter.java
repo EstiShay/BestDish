@@ -1,4 +1,4 @@
-package com.epicodus.bestdish;
+package com.epicodus.bestdish.adapters;
 
 import android.content.Context;
 import android.widget.ArrayAdapter;

@@ -3,7 +3,7 @@
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context="com.epicodus.bestdish.MainActivity"
+                tools:context="com.epicodus.bestdish.ui.MainActivity"
                 android:background="#000000">
 
     <ImageView

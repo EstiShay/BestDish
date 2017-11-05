@@ -1,15 +1,16 @@
-package com.epicodus.bestdish;
+package com.epicodus.bestdish.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.epicodus.bestdish.R;
+import com.epicodus.bestdish.models.Restaurant;
+import com.epicodus.bestdish.services.YelpService;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
