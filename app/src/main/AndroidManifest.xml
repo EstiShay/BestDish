@@ -20,12 +20,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.RestaurantsActivity">
+        <activity android:name=".ui.RestaurantListActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.epicodus.bestdish.ui.MainActivity">
             </meta-data>
+        </activity>
+        <activity android:name=".ui.RestaurantDetailActivity">
         </activity>
     </application>
 
