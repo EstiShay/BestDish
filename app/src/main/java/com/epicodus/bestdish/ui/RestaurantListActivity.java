@@ -46,7 +46,9 @@ public class RestaurantListActivity extends AppCompatActivity {
 
         mSharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         mRecentAddress = mSharedPreferences.getString(Constants.PREFERENCES_LOCATION_KEY, null);
-        Log.d("Shared Pref Location", mRecentAddress);
+        if (mRecentAddress != null) {
+            getRestaurants(mRecentAddress);
+        }
     }
 
     private void getRestaurants(String location) {
