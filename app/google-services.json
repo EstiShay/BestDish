@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774109305025",
+    "firebase_url": "https://bestdish-adead.firebaseio.com",
+    "project_id": "bestdish-adead",
+    "storage_bucket": "bestdish-adead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774109305025:android:4606edd910af3daf",
+        "android_client_info": {
+          "package_name": "com.epicodus.bestdish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774109305025-unsircf8jfqbslimca3mg5m5g4o4vu2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.bestdish",
+            "certificate_hash": "3e7af484ba978bfeb1c0a2c3419e2d81a6f6d0b6"
+          }
+        },
+        {
+          "client_id": "774109305025-jvigh1qm9bi95aclk278oib7kuuom119.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_p7nleqtrzJ2_RW5vGTQNiFeB3UVukZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774109305025-jvigh1qm9bi95aclk278oib7kuuom119.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
